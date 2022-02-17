@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
   color: azure;
   background-color: black;
@@ -9,3 +10,15 @@ p {
   padding-left: 1cm;
   color: blue;
 }
+=======
+h1{
+    color: crimson;
+    background-color: aqua;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    text-align: center;
+}
+
+>>>>>>> 7a5f3d0fa5267c4e3125c404ed1e254d148c26ab
